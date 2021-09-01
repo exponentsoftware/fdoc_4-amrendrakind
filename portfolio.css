@@ -5,8 +5,8 @@
     top: 50%;
     left: 50%;
     width:60em;
-    height:220em;
-    margin-top: -19em; /*set to a negative number 1/2 of height*/
+    height:225em;
+    margin-top: -20.5em; /*set to a negative number 1/2 of height*/
     margin-left: -30em; /*set to a negative number 1/2 of width*/
     border: 1px solid #ccc;
     background-color:white;
@@ -65,7 +65,7 @@ button:hover{
 
 .about{
 
-    height: 35em;
+    height: 37em;
     background-color: white;
     margin-left: 5%;
     margin-right: 7%;
@@ -105,7 +105,7 @@ button:hover{
 .project-details{
     color:white;
     background-color: rgb(20, 18, 143);
-    height: 35em;
+    height: 36em;
     display: block;
     align-items: center;
     justify-content: center;
@@ -149,7 +149,7 @@ button:hover{
 
 .skills{
     color: rgb(8, 6, 89);
-    height: 38em;
+    height: 40em;
     background-color: white;
     display: block;
     align-items: center;
@@ -238,7 +238,7 @@ button:hover{
 
 .my-experience{
         text-align: center;
-        height: 35 rem;
+        height: 40 rem;
         background: rgb(20, 18, 143);
         color: whitesmoke;
         padding: 2em;
@@ -270,7 +270,7 @@ button:hover{
 
 /* contact me*/
 .contactme {
-    height: 30rem;
+    height: 35rem;
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
