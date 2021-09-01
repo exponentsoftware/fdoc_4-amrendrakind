@@ -110,7 +110,6 @@ button:hover{
     align-items: center;
     justify-content: center;
     text-align: center;
-
 }
 
 .project-div{
@@ -147,8 +146,6 @@ button:hover{
   outline: none;
   border-radius: 10 px;
 }
-
-
 
 .skills{
     color: rgb(8, 6, 89);
@@ -315,8 +312,3 @@ input[type=text], select {
       width: 545px;
       height: 200px;
   }
-  /* end of contact me */
-
-
-
-
