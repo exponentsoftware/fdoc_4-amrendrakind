@@ -74,7 +74,6 @@ button:hover{
     justify-content:space-between;
     text-align: center;
 
-
 }
 .about-me{
     color: rgb(8, 6, 89);
@@ -102,8 +101,6 @@ button:hover{
 .image{
     padding-left: 20px;
 }
-
-
 
 .project-details{
     color:white;
@@ -274,8 +271,6 @@ button:hover{
     
     }
 
-
-
 /* contact me*/
 .contactme {
     height: 30rem;
@@ -320,9 +315,6 @@ input[type=text], select {
       width: 545px;
       height: 200px;
   }
-
-
-
   /* end of contact me */
 
 
